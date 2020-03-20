@@ -1,0 +1,34 @@
+{
+  "recipes": [
+    {
+      "firstname": "Athena",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10396c67-eeb6-42c3-9d9f-44f06197d28f/darafoy-31709b89-cb1c-4422-b089-dbd9f5270450.jpg/v1/fill/w_400,h_500,q_75,strp/athena___saint_seiya___30th_anniversary_by_fernandohko_darafoy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwMzk2YzY3LWVlYjYtNDJjMy05ZDlmLTQ0ZjA2MTk3ZDI4ZlwvZGFyYWZveS0zMTcwOWI4OS1jYjFjLTQ0MjItYjA4OS1kYmQ5ZjUyNzA0NTAuanBnIiwiaGVpZ2h0IjoiPD01MDAiLCJ3aWR0aCI6Ijw9NDAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLndhdGVybWFyayJdLCJ3bWsiOnsicGF0aCI6Ilwvd21cLzEwMzk2YzY3LWVlYjYtNDJjMy05ZDlmLTQ0ZjA2MTk3ZDI4ZlwvZmVybmFuZG9oa28tNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.HV2htNMlCaPbh9ITTtoSPXkDJzF_l-gCiWJOfEXIwu4",
+      "description": "    คิโด ซาโอริ ปรากฏตัวครั้งแรกตอนที่ เกิดกบฏของเจมินี่ ซากะ ที่กำลังจะสังหารเธอ แต่โกลด์เซนต์คนหนึ่งมีนามว่าซาจิททาเรียส ไอโอลอส มาห้ามไว้ แล้วไอโอลอสได้อุ้มเธอหนีไปจากซากะ ซากะที่ปลอมตัวเป็นเคียวโกจึงกล่าวหาว่า ไอโอลอสเป็นกบฏจะสังหารอาเธน่า แล้วส่งแคปริคอรน์ ชูร่าไปตามล่า ด้วยว่าไอโอลอสต้องดูแลอาเธน่าด้วย จึงทำให้ไอโอลอสต่อสู้ กับ ชูร่าไม่ถนัด ทำให้ไอโอลอสบาดเจ็บ จากการโดนเอ็กซ์คาริเบอร์ จนในสุดไอโอลอสพาอาเธน่าหนีออกจากแซงค์ทัวรี่ได้สำเร็จ"
+    },
+    {
+      "firstname": "Pegasus Seiya",
+      "image": "https://i.pinimg.com/originals/5f/5e/49/5f5e491ccf72e20e059170212aa9bc9b.png",
+      "description": "    เซย์ย่าเป็นคนพูดจาตรงไปตรงมา อยากรู้อยากเห็น มีนิสัยครื้นเครง กระฉับกระเฉง เลือดร้อน และเป็นผู้นำกลุ่ม มีความกล้าหาญพร้อมจะเผชิญหน้ากับศัตรู"
+    },
+    {
+      "firstname": "Cygnus Hyoga",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8r5ACwWa8OyhewzSHCcEp5kqOlVqfReUX8rHsqzs3N6apsEv3&s",
+      "description": "    เด็กหนุ่มลูกครึ่งซึ่งมีพ่อเป็นชาวญี่ปุ่น และแม่เป็นชาวรัสเซีย แต่ทว่าแม่ของเขาเกิดอุบัติเหตุเรือล่มจมอยู่ใต้ทะเลน้ำแข็งที่ไซบีเรีย ทำให้ร่างกายไม่เน่าเปื่อยยังคงงดงามอยู่เสมอ เนื่องจากน้ำทะเลบริเวณนั้นมีอุณหภูมิต่ำกว่าศูนย์องศา เฮียวกะถูกส่งมาฝึกวิชาที่ดินแดนทุ่งน้ำแข็งที่มีอากาศหนาวเหน็บแห่งนี้นั่นเอง"
+    },
+    {
+      "firstname": "Dragon Shiryu",
+      "image": "https://vignette.wikia.nocookie.net/saint-seiya-cosmo-fantasy/images/d/dc/Shiryu_du_Dragon_V2.png/revision/latest/top-crop/width/360/height/450?cb=20180215204926&path-prefix=fr",
+      "description": "    ชิริวเป็น 1 ในเด็กกำพร้าที่ถูกส่งไปยังสถานที่ต่าง ๆ เพื่อฝึกฝนให้ได้เป็นเซนต์ โดยชิริวได้เดินทางไปยัง เทือกเขาโกโรโฮ ประเทศจีน โดยมี ท่านผู้เฒ่า หรือ ไลบร้า โดโก โกลด์เซนต์ราศีตุล เป็นผู้ฝึกฝนวิชาให้ โดยผู้ที่สามารถทำให้น้ำตกโรซันไหลย้อนกลับขึ้นไปเท่านั้นที่จะมีคุณสมบัติได้ครอบครองชุดคร็อธดราก้อน ชิริวใช้ระยะเวลาประมาณ 5 ปีในการฝึกฝนจนสามารถทำให้น้ำตกโรซันไหลย้อนกลับขึ้นไปและครอบครองชุดคร็อธดราก้อนสำเร็จ"
+    },
+    {
+      "firstname": "Andromeda Shun",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10396c67-eeb6-42c3-9d9f-44f06197d28f/da7yz9d-ccd1988e-b608-4c09-b3c5-f3dce9f46ab7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwMzk2YzY3LWVlYjYtNDJjMy05ZDlmLTQ0ZjA2MTk3ZDI4ZlwvZGE3eXo5ZC1jY2QxOTg4ZS1iNjA4LTRjMDktYjNjNS1mM2RjZTlmNDZhYjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rCW9hmCBkN0OFD3VUhh9biF_T4jWCFw-XWF7J1HvaeY",
+      "description": "    เป็นน้องชายของฟีนิกซ์ อิคคิ มีหน้าตาคล้ายผู้หญิง มีอุปนิสัยเรียบร้อย มีจิตใจอ่อนโยนและเกลียดชังการต่อสู้ เดิมทีชุนจะต้องถูกส่งตัวไปฝึกวิชาที่เกาะเดธควีนซึ่งได้ชื่อว่าเป็นดินแดงนรกบนดิน ดังนั้นอิคคิจึงขอเสนอตัวไปเกาะเดธควีนแทน ดังนั้น ชุนจึงได้ไปฝึกวิชาที่เกาะอันโดรเมด้า โดยมีซิลเวอร์เซนต์ เซเฟอุส ไดดาลอส (ในภาคอนิเมะคือ เซเฟอุส อัลบีโอเร่) เป็นอาจารย์ฝึกสอนวิชา"
+    },
+    {
+      "firstname": "Phoenix Ikki",
+      "image" : "https://myanimeshelf.com//upload/dynamic/2018-05/24/7128761.jpg",
+      "description": "    เป็นพี่ชายของอันโดรเมด้า ชุน ซึ่งมีจิตใจเข้มแข็ง คอยปกป้องและให้ความช่วยเหลือน้องชายอยู่เสมอ ถึงภายนอกจะดูเหมือนคนดุดัน ใจร้อน แต่แท้จริงแล้วเขาก็เป็นคนที่มีคุณธรรมในจิตใจมากทีเดียว อิคคิยอมถูกส่งไปยังเกาะเดธควีน หรือ \\\"ราชินีมรณะ\\\" แทนชุน ซึ่งเกาะนี้อยู่บริเวณเส้นศูนย์สูตร กลางมหาสมุทรแปซิฟิก มีสภาพอากาศร้อนระอุเหมือนเป็นขุมนรก มีฝนลูกไฟตกอยู่ตลอดทั้งปี ผู้คนที่ถูกส่งมายังเกาะนี้ไม่เคยมีใครกลับมาอย่างสมประกอบเลยแม้แต่คนเดียว"
+    }
+  ]
+}
